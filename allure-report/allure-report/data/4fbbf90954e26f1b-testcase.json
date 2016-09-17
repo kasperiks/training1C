@@ -1,0 +1,95 @@
+{
+  "uid" : "4fbbf90954e26f1b",
+  "name" : "Вычисление возраста в месяца",
+  "title" : "Вычисление возраста в месяца",
+  "time" : {
+    "start" : 63609553632355,
+    "stop" : 63609553632986,
+    "duration" : 631
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : {
+    "message" : "{(1)}: Недостаточно фактических параметров; ИмяФайла=C:\\repo\\training1C\\features\\step_definitions\\ВозрастВМесяцах.epf, ИмяПроцедуры=РезультатБудетРавен",
+    "stackTrace" : null
+  },
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "FAILED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "3e0dc34a8c02c1f9",
+    "name" : "ВозрастВМесяцах",
+    "title" : "ВозрастВМесяцах"
+  },
+  "steps" : [ {
+    "name" : "Допустим у меня есть дата рождения сотрудника 12.11.1999",
+    "title" : "Допустим у меня есть дата рождения сотрудника 12.11.1999",
+    "time" : {
+      "start" : 63609553632526,
+      "stop" : 63609553632539,
+      "duration" : 13
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "и у меня есть дата на момент расчета 15.09.2016",
+    "title" : "и у меня есть дата на момент расчета 15.09.2016",
+    "time" : {
+      "start" : 63609553632734,
+      "stop" : 63609553632747,
+      "duration" : 13
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда результат будет равен",
+    "title" : "Тогда результат будет равен",
+    "time" : {
+      "start" : 63609553632933,
+      "stop" : 63609553632984,
+      "duration" : 51
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "FAILED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "ВозрастВМесяцах"
+  }, {
+    "name" : "suite-name",
+    "value" : "ВозрастВМесяцах"
+  }, {
+    "name" : "story",
+    "value" : "Вычисление возраста в месяца"
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}

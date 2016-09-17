@@ -1,0 +1,92 @@
+{
+  "uid" : "484649d81bf90281",
+  "name" : "Вычисление возраста в месяца",
+  "title" : "Вычисление возраста в месяца",
+  "time" : {
+    "start" : 63609553674781,
+    "stop" : 63609553675859,
+    "duration" : 1078
+  },
+  "summary" : {
+    "attachments" : 0,
+    "steps" : 3
+  },
+  "failure" : null,
+  "description" : null,
+  "severity" : "NORMAL",
+  "status" : "PASSED",
+  "testId" : null,
+  "suite" : {
+    "uid" : "3e0dc34a8c02c1f9",
+    "name" : "ВозрастВМесяцах",
+    "title" : "ВозрастВМесяцах"
+  },
+  "steps" : [ {
+    "name" : "Допустим у меня есть дата рождения сотрудника 12.05.1983",
+    "title" : "Допустим у меня есть дата рождения сотрудника 12.05.1983",
+    "time" : {
+      "start" : 63609553675122,
+      "stop" : 63609553675132,
+      "duration" : 10
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "и у меня есть дата на момент расчета 15.09.2016",
+    "title" : "и у меня есть дата на момент расчета 15.09.2016",
+    "time" : {
+      "start" : 63609553675466,
+      "stop" : 63609553675477,
+      "duration" : 11
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  }, {
+    "name" : "Тогда результат будет равен 0",
+    "title" : "Тогда результат будет равен 0",
+    "time" : {
+      "start" : 63609553675818,
+      "stop" : 63609553675845,
+      "duration" : 27
+    },
+    "summary" : {
+      "attachments" : 0,
+      "steps" : 0
+    },
+    "status" : "PASSED",
+    "attachments" : [ ],
+    "steps" : [ ]
+  } ],
+  "attachments" : [ ],
+  "issues" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "ВозрастВМесяцах"
+  }, {
+    "name" : "suite-name",
+    "value" : "ВозрастВМесяцах"
+  }, {
+    "name" : "story",
+    "value" : "Вычисление возраста в месяца"
+  }, {
+    "name" : "framework",
+    "value" : "vanessa-behavior"
+  }, {
+    "name" : "suite-title",
+    "value" : null
+  }, {
+    "name" : "language",
+    "value" : "1С"
+  } ],
+  "parameters" : [ ]
+}

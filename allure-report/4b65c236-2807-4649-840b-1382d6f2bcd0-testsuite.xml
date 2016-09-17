@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name>ВозрастВМесяцах</name>
+	<test-cases>
+		<test-case start="63609554121457" stop="63609554122534" status="passed">
+			<name>Вычисление возраста в месяца</name>
+			<steps>
+				<step start="63609554121797" stop="63609554121807" status="passed">
+					<name>Допустим у меня есть дата рождения сотрудника 12.05.1983</name>
+					<title>Допустим у меня есть дата рождения сотрудника 12.05.1983</title>
+				</step>
+				<step start="63609554122145" stop="63609554122156" status="passed">
+					<name>и у меня есть дата на момент расчета 15.09.2016</name>
+					<title>и у меня есть дата на момент расчета 15.09.2016</title>
+				</step>
+				<step start="63609554122493" stop="63609554122520" status="passed">
+					<name>Тогда результат будет равен 0</name>
+					<title>Тогда результат будет равен 0</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="Вычисление возраста в месяца"/>
+			</labels>
+		</test-case>
+		<test-case start="63609554122686" stop="63609554123320" status="passed">
+			<name>Вычисление возраста в месяца</name>
+			<steps>
+				<step start="63609554122870" stop="63609554122883" status="passed">
+					<name>Допустим у меня есть дата рождения сотрудника 12.11.1999</name>
+					<title>Допустим у меня есть дата рождения сотрудника 12.11.1999</title>
+				</step>
+				<step start="63609554123077" stop="63609554123090" status="passed">
+					<name>и у меня есть дата на момент расчета 15.09.2016</name>
+					<title>и у меня есть дата на момент расчета 15.09.2016</title>
+				</step>
+				<step start="63609554123280" stop="63609554123306" status="passed">
+					<name>Тогда результат будет равен 0</name>
+					<title>Тогда результат будет равен 0</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="Вычисление возраста в месяца"/>
+			</labels>
+		</test-case>
+	</test-cases>
+	<labels>
+		<label name="feature" value="ВозрастВМесяцах"/>
+		<label name="framework" value="vanessa-behavior"/>
+		<label name="language" value="1С"/>
+	</labels>
+</ns2:test-suite>

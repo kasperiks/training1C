@@ -1,0 +1,60 @@
+{
+  "hash" : "9ae4a52f46fbba0c959575303f697deb73e72d63",
+  "data" : [ {
+    "statistic" : {
+      "total" : 8,
+      "passed" : 5,
+      "pending" : 1,
+      "canceled" : 0,
+      "failed" : 2,
+      "broken" : 0
+    },
+    "time" : {
+      "start" : 63609552574664,
+      "stop" : 63609554123320,
+      "duration" : 1548656
+    },
+    "name" : "total",
+    "type" : "TOTAL"
+  }, {
+    "name" : "defects",
+    "type" : "DEFECTS",
+    "data" : [ {
+      "count" : 2,
+      "message" : "{(1)}: Недостаточно фактических параметров; ИмяФайла=C:\\repo\\training1C\\features\\step_definitions\\ВозрастВМесяцах.epf, ИмяПроцедуры=РезультатБудетРавен",
+      "status" : "FAILED"
+    } ]
+  }, {
+    "name" : "xunit",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "ВозрастВМесяцах",
+      "statistic" : {
+        "total" : 8,
+        "passed" : 5,
+        "pending" : 1,
+        "canceled" : 0,
+        "failed" : 2,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "behaviors",
+    "type" : "TITLE_STATISTICS",
+    "data" : [ {
+      "title" : "ВозрастВМесяцах",
+      "statistic" : {
+        "total" : 8,
+        "passed" : 5,
+        "pending" : 1,
+        "canceled" : 0,
+        "failed" : 2,
+        "broken" : 0
+      }
+    } ]
+  }, {
+    "name" : "environment",
+    "type" : "KEY_VALUE",
+    "data" : [ ]
+  } ]
+}

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name>ВозрастВМесяцах</name>
+	<test-cases>
+		<test-case start="63609553631110" stop="63609553632204" status="failed">
+			<name>Вычисление возраста в месяца</name>
+			<failure>
+				<message>{(1)}: Недостаточно фактических параметров; ИмяФайла=C:\repo\training1C\features\step_definitions\ВозрастВМесяцах.epf, ИмяПроцедуры=РезультатБудетРавен</message>
+			</failure>
+			<steps>
+				<step start="63609553631455" stop="63609553631465" status="passed">
+					<name>Допустим у меня есть дата рождения сотрудника 12.05.1983</name>
+					<title>Допустим у меня есть дата рождения сотрудника 12.05.1983</title>
+				</step>
+				<step start="63609553631803" stop="63609553631814" status="passed">
+					<name>и у меня есть дата на момент расчета 15.09.2016</name>
+					<title>и у меня есть дата на момент расчета 15.09.2016</title>
+				</step>
+				<step start="63609553632152" stop="63609553632202" status="failed">
+					<name>Тогда результат будет равен</name>
+					<title>Тогда результат будет равен</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="Вычисление возраста в месяца"/>
+			</labels>
+		</test-case>
+		<test-case start="63609553632355" stop="63609553632986" status="failed">
+			<name>Вычисление возраста в месяца</name>
+			<failure>
+				<message>{(1)}: Недостаточно фактических параметров; ИмяФайла=C:\repo\training1C\features\step_definitions\ВозрастВМесяцах.epf, ИмяПроцедуры=РезультатБудетРавен</message>
+			</failure>
+			<steps>
+				<step start="63609553632526" stop="63609553632539" status="passed">
+					<name>Допустим у меня есть дата рождения сотрудника 12.11.1999</name>
+					<title>Допустим у меня есть дата рождения сотрудника 12.11.1999</title>
+				</step>
+				<step start="63609553632734" stop="63609553632747" status="passed">
+					<name>и у меня есть дата на момент расчета 15.09.2016</name>
+					<title>и у меня есть дата на момент расчета 15.09.2016</title>
+				</step>
+				<step start="63609553632933" stop="63609553632984" status="failed">
+					<name>Тогда результат будет равен</name>
+					<title>Тогда результат будет равен</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="Вычисление возраста в месяца"/>
+			</labels>
+		</test-case>
+	</test-cases>
+	<labels>
+		<label name="feature" value="ВозрастВМесяцах"/>
+		<label name="framework" value="vanessa-behavior"/>
+		<label name="language" value="1С"/>
+	</labels>
+</ns2:test-suite>

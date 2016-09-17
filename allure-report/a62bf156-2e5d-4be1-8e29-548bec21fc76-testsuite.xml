@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ns2:test-suite xmlns:ns2="urn:model.allure.qatools.yandex.ru" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<name>ВозрастВМесяцах</name>
+	<test-cases>
+		<test-case start="63609552574664" stop="63609552575030" status="pending">
+			<name>Вычисление возраста в месяца</name>
+			<failure>
+				<message>Не реализовано.</message>
+			</failure>
+			<steps>
+				<step start="63609552575001" stop="63609552575029" status="pending">
+					<name>Допустим у меня есть дата рождения сотрудника 12.05.1983</name>
+					<title>Допустим у меня есть дата рождения сотрудника 12.05.1983</title>
+				</step>
+				<step start="63609552575040" stop="63609552575040" status="skipped">
+					<name>и у меня есть дата на момент расчета 15.09.2016</name>
+					<title>и у меня есть дата на момент расчета 15.09.2016</title>
+				</step>
+				<step start="63609552575040" stop="63609552575040" status="skipped">
+					<name>Тогда результат будет равен 10</name>
+					<title>Тогда результат будет равен 10</title>
+				</step>
+			</steps>
+			<labels>
+				<label name="story" value="Вычисление возраста в месяца"/>
+			</labels>
+		</test-case>
+	</test-cases>
+	<labels>
+		<label name="feature" value="ВозрастВМесяцах"/>
+		<label name="framework" value="vanessa-behavior"/>
+		<label name="language" value="1С"/>
+	</labels>
+</ns2:test-suite>

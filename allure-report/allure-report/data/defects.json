@@ -1,0 +1,40 @@
+{
+  "defectsList" : [ {
+    "title" : "Product defects",
+    "status" : "FAILED",
+    "defects" : [ {
+      "uid" : "d330b3f115b2eacd",
+      "failure" : {
+        "message" : "{(1)}: Недостаточно фактических параметров; ИмяФайла=C:\\repo\\training1C\\features\\step_definitions\\ВозрастВМесяцах.epf, ИмяПроцедуры=РезультатБудетРавен",
+        "stackTrace" : null
+      },
+      "testCases" : [ {
+        "uid" : "781c8b7bcfa3b316",
+        "name" : "Вычисление возраста в месяца",
+        "title" : "Вычисление возраста в месяца",
+        "time" : {
+          "start" : 63609553631110,
+          "stop" : 63609553632204,
+          "duration" : 1094
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      }, {
+        "uid" : "4fbbf90954e26f1b",
+        "name" : "Вычисление возраста в месяца",
+        "title" : "Вычисление возраста в месяца",
+        "time" : {
+          "start" : 63609553632355,
+          "stop" : 63609553632986,
+          "duration" : 631
+        },
+        "severity" : "NORMAL",
+        "status" : "FAILED"
+      } ]
+    } ]
+  }, {
+    "title" : "Test defects",
+    "status" : "BROKEN",
+    "defects" : [ ]
+  } ]
+}

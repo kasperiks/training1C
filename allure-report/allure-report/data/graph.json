@@ -1,0 +1,91 @@
+{
+  "testCases" : [ {
+    "uid" : "4b230717389199c1",
+    "name" : "Вычисление возраста в месяца",
+    "title" : "Вычисление возраста в месяца",
+    "time" : {
+      "start" : 63609553442006,
+      "stop" : 63609553442646,
+      "duration" : 640
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "781c8b7bcfa3b316",
+    "name" : "Вычисление возраста в месяца",
+    "title" : "Вычисление возраста в месяца",
+    "time" : {
+      "start" : 63609553631110,
+      "stop" : 63609553632204,
+      "duration" : 1094
+    },
+    "severity" : "NORMAL",
+    "status" : "FAILED"
+  }, {
+    "uid" : "4fbbf90954e26f1b",
+    "name" : "Вычисление возраста в месяца",
+    "title" : "Вычисление возраста в месяца",
+    "time" : {
+      "start" : 63609553632355,
+      "stop" : 63609553632986,
+      "duration" : 631
+    },
+    "severity" : "NORMAL",
+    "status" : "FAILED"
+  }, {
+    "uid" : "c2dee5045e1ab853",
+    "name" : "Вычисление возраста в месяца",
+    "title" : "Вычисление возраста в месяца",
+    "time" : {
+      "start" : 63609554121457,
+      "stop" : 63609554122534,
+      "duration" : 1077
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "1b318175c3f80f0e",
+    "name" : "Вычисление возраста в месяца",
+    "title" : "Вычисление возраста в месяца",
+    "time" : {
+      "start" : 63609554122686,
+      "stop" : 63609554123320,
+      "duration" : 634
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "4e4c492af9bfbebb",
+    "name" : "Вычисление возраста в месяца",
+    "title" : "Вычисление возраста в месяца",
+    "time" : {
+      "start" : 63609552574664,
+      "stop" : 63609552575030,
+      "duration" : 366
+    },
+    "severity" : "NORMAL",
+    "status" : "PENDING"
+  }, {
+    "uid" : "484649d81bf90281",
+    "name" : "Вычисление возраста в месяца",
+    "title" : "Вычисление возраста в месяца",
+    "time" : {
+      "start" : 63609553674781,
+      "stop" : 63609553675859,
+      "duration" : 1078
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  }, {
+    "uid" : "f0f725c2d91b5e8e",
+    "name" : "Вычисление возраста в месяца",
+    "title" : "Вычисление возраста в месяца",
+    "time" : {
+      "start" : 63609553676016,
+      "stop" : 63609553676648,
+      "duration" : 632
+    },
+    "severity" : "NORMAL",
+    "status" : "PASSED"
+  } ]
+}
