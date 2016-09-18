@@ -23,7 +23,7 @@
     <meta http-equiv="Content-Language" content="en">
     <meta name="viewport" content="width=device-width">
     
-    <title>vanessa-bootstrap/README.md at master · silverbulleters/vanessa-bootstrap</title>
+    <title>vanessa-bootstrap/bootstrap.in-up.sh at master · silverbulleters/vanessa-bootstrap</title>
     <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <link rel="apple-touch-icon" href="/apple-touch-icon.png">
@@ -43,10 +43,10 @@
       <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
-    <link rel="web-socket" href="wss://live.github.com/_sockets/MjIxNTQwMDI6ZTU5NGFiMDRhZDEwZTEwM2Y4OWIzOTI2MjM1ZmQ0Njk6YTdhY2JkY2ExMjA3YmFiZDY1ZmIzYjE2ZDA5NjdhZmIyNTFiZDRhZmZhMzRhZWQ2MzI1MjhiNGEwNTU5MDFkOQ==--1b6ca3931705052a5a1d8fcdf8da8b8968cab966">
+    <link rel="web-socket" href="wss://live.github.com/_sockets/MjIxNTQwMDI6ZTU5NGFiMDRhZDEwZTEwM2Y4OWIzOTI2MjM1ZmQ0Njk6MTUwMjIwMTE5MzZjNTgyYzBkZWI4MjZiMWY4ZWEyZWY3YmMyZTliMjE2MDg2YjZhOGY4ZDQwYTllMjI2NGQyOQ==--870ec5414788e94cde998760cc1b1ad5f178157f">
     <meta name="pjax-timeout" content="1000">
     <link rel="sudo-modal" href="/sessions/sudo_modal">
-    <meta name="request-id" content="91FF150A:358D:39D836A:57DEBE4F" data-pjax-transient>
+    <meta name="request-id" content="91FF150A:358D:39D9B60:57DEBE66" data-pjax-transient>
 
     <meta name="msapplication-TileImage" content="/windows-tile.png">
     <meta name="msapplication-TileColor" content="#ffffff">
@@ -56,7 +56,7 @@
 <meta name="google-site-verification" content="ZzhVyEFwb7w3e0-uOTltm8Jsck2F5StVihD0exw2fsA">
     <meta name="google-analytics" content="UA-3769691-2">
 
-<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="91FF150A:358D:39D836A:57DEBE4F" name="octolytics-dimension-request_id" /><meta content="22154002" name="octolytics-actor-id" /><meta content="kasperiks" name="octolytics-actor-login" /><meta content="ff6a98c4e08d5ab0c70a863e054284178ea8382471acead935b4b91a938e1f4b" name="octolytics-actor-hash" />
+<meta content="collector.githubapp.com" name="octolytics-host" /><meta content="github" name="octolytics-app-id" /><meta content="91FF150A:358D:39D9B60:57DEBE66" name="octolytics-dimension-request_id" /><meta content="22154002" name="octolytics-actor-id" /><meta content="kasperiks" name="octolytics-actor-login" /><meta content="ff6a98c4e08d5ab0c70a863e054284178ea8382471acead935b4b91a938e1f4b" name="octolytics-actor-hash" />
 <meta content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-pjax-transient="true" name="analytics-location" />
 
 
@@ -69,7 +69,7 @@
     <meta name="user-login" content="kasperiks">
 
         <meta name="expected-hostname" content="github.com">
-      <meta name="js-proxy-site-detection-payload" content="Y2EwZWY1NjA2MzJhYzYxYzQ3MjBkYjA5MmQ1YWJiMWFiOTA5MDUwMWM1MzljNmNhNjZiYWU3NjMwM2M3MzFhYnx7InJlbW90ZV9hZGRyZXNzIjoiMTQ1LjI1NS4yMS4xMCIsInJlcXVlc3RfaWQiOiI5MUZGMTUwQTozNThEOjM5RDgzNkE6NTdERUJFNEYiLCJ0aW1lc3RhbXAiOjE0NzQyMTU1MDR9">
+      <meta name="js-proxy-site-detection-payload" content="MzAyODFkYmU0NWUyODZiOTEwODMwYjIxZWE0YmE0ZmJmMzg0YWE3MTcwNDUwNzIxMzIyNGJlM2YyOWQ1ZDUyNnx7InJlbW90ZV9hZGRyZXNzIjoiMTQ1LjI1NS4yMS4xMCIsInJlcXVlc3RfaWQiOiI5MUZGMTUwQTozNThEOjM5RDlCNjA6NTdERUJFNjYiLCJ0aW1lc3RhbXAiOjE0NzQyMTU1MjZ9">
 
 
       <link rel="mask-icon" href="https://assets-cdn.github.com/pinned-octocat.svg" color="#4078c0">
@@ -89,7 +89,7 @@
   <link href="https://github.com/silverbulleters/vanessa-bootstrap/commits/master.atom" rel="alternate" title="Recent Commits to vanessa-bootstrap:master" type="application/atom+xml">
 
 
-      <link rel="canonical" href="https://github.com/silverbulleters/vanessa-bootstrap/blob/master/README.md" data-pjax-transient>
+      <link rel="canonical" href="https://github.com/silverbulleters/vanessa-bootstrap/blob/master/bootstrap.in-up.sh" data-pjax-transient>
   </head>
 
 
@@ -226,7 +226,7 @@
           Settings
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="6Ngj2c5oltb8pamI1YyY+AmL1KaczvOCcHIQn7gV3o8fIPedHw504KD3RvRnCCj6CKcWbxARdAz+WWP7U35z1Q==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/logout" class="logout-form" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="oFQOV2u84qqAIE9b/Wo8mcCliLz+B9NYxA2CGxRqnQGQIqwZBOvoU+R4Al54zv+ziNwCO/E5P27R9YNiscA8QQ==" /></div>
           <button class="dropdown-item dropdown-signout" data-ga-click="Header, sign out, icon:logout">
             Sign out
           </button>
@@ -262,7 +262,7 @@
 <ul class="pagehead-actions">
 
   <li>
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Frguy4jFbqL7SXzE5EWNcAd1/dW2DzCnTTkTw59+7GKp6roBih2plC4Ks2xlzL5RzTQD1v5/aLYLsDKKwIeOCA==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="42683157" />
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/notifications/subscribe" class="js-social-container" data-autosubmit="true" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="CWkm+Y2Cg596tZhn4BwI9fiM3JYgKHr5YL2qRfYfXRPUQQyr+6fO/dTnkHOza8xeLByeoxTQgeHJMTE+SCtdEg==" /></div>      <input class="form-control" id="repository_id" name="repository_id" type="hidden" value="42683157" />
 
         <div class="select-menu js-menu-container js-select-menu">
           <a href="/silverbulleters/vanessa-bootstrap/subscription"
@@ -339,7 +339,7 @@
     
   <div class="js-toggler-container js-social-container starring-container ">
 
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/unstar" class="starred" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="iKIJJ8yWcIReo/sCACIWgdS5XoKy9AQ42Srq20WpDskH3+2oU4PkV3R4po4kMWtAeaYGXON/li2mcGQTqJP2Wg==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/unstar" class="starred" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qMeqZsM03lUmaf9X8aTwQucahkBPoMsokJIBfH5h5GuJ3hEwDVM3DTiqLUHNYX5pfF1MgC3WAMiUas73RodDXg==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Unstar this repository" title="Unstar silverbulleters/vanessa-bootstrap"
@@ -352,7 +352,7 @@
           39
         </a>
 </form>
-    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/star" class="unstarred" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="qIK3et3vzeusnFE61jjhiiVQIwe2Nel7e+lyT6aEzYvpvxggixatCbPcke1cTHyRBZDW2Rg0KAq++VEjY1EO+A==" /></div>
+    <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/star" class="unstarred" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" data-remote="true" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="h9DcF7/114zAGUj2zx24yI2VfZrlt+v6Ju3TovRkZ690Xk9hNej/Q0DZsPUK0c6UonKbFN2smX7DyTyi3kIrLQ==" /></div>
       <button
         class="btn btn-sm btn-with-count js-toggler-target"
         aria-label="Star this repository" title="Star silverbulleters/vanessa-bootstrap"
@@ -369,7 +369,7 @@
   </li>
 
   <li>
-          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/fork" class="btn-with-count" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="mXJSz44QPcGFSMC+gEYR6b5CtMSs0l93TwoqLN8CbbCMU+VGXfNXlqWiqjgjEP7mEVo9ybfN55DS7+46dg0UCA==" /></div>
+          <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/fork" class="btn-with-count" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="8NmjcGqeeUtKMUF4stfzmn15qlCqJUCxzcR2PRMPixpJFx+2tNVNtQPlnxgJXn5Rg5M5L1EcMCy9LTEMru8oVA==" /></div>
             <button
                 type="submit"
                 class="btn btn-sm btn-with-count"
@@ -455,9 +455,9 @@
 
     
 
-<a href="/silverbulleters/vanessa-bootstrap/blob/1ebf8430d202c2293659530945320e472fd13ffc/README.md" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
+<a href="/silverbulleters/vanessa-bootstrap/blob/1ebf8430d202c2293659530945320e472fd13ffc/bootstrap.in-up.sh" class="d-none js-permalink-shortcut" data-hotkey="y">Permalink</a>
 
-<!-- blob contrib key: blob_contributors:v21:457c6ad659f825786567031058e42680 -->
+<!-- blob contrib key: blob_contributors:v21:6ebcc8f4242b2533d45a73eb80dd30a1 -->
 
 <div class="file-navigation js-zeroclipboard-container">
   
@@ -499,7 +499,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/silverbulleters/vanessa-bootstrap/blob/develop/README.md"
+               href="/silverbulleters/vanessa-bootstrap/blob/develop/bootstrap.in-up.sh"
                data-name="develop"
                data-skip-pjax="true"
                rel="nofollow">
@@ -509,7 +509,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-               href="/silverbulleters/vanessa-bootstrap/blob/feature/add-new-dirs/README.md"
+               href="/silverbulleters/vanessa-bootstrap/blob/feature/add-new-dirs/bootstrap.in-up.sh"
                data-name="feature/add-new-dirs"
                data-skip-pjax="true"
                rel="nofollow">
@@ -519,7 +519,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open selected"
-               href="/silverbulleters/vanessa-bootstrap/blob/master/README.md"
+               href="/silverbulleters/vanessa-bootstrap/blob/master/bootstrap.in-up.sh"
                data-name="master"
                data-skip-pjax="true"
                rel="nofollow">
@@ -538,7 +538,7 @@
 
 
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/silverbulleters/vanessa-bootstrap/tree/0.2.5.4/README.md"
+              href="/silverbulleters/vanessa-bootstrap/tree/0.2.5.4/bootstrap.in-up.sh"
               data-name="0.2.5.4"
               data-skip-pjax="true"
               rel="nofollow">
@@ -548,7 +548,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/silverbulleters/vanessa-bootstrap/tree/0.2.5.2/README.md"
+              href="/silverbulleters/vanessa-bootstrap/tree/0.2.5.2/bootstrap.in-up.sh"
               data-name="0.2.5.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -558,7 +558,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/silverbulleters/vanessa-bootstrap/tree/0.2.5.1/README.md"
+              href="/silverbulleters/vanessa-bootstrap/tree/0.2.5.1/bootstrap.in-up.sh"
               data-name="0.2.5.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -568,7 +568,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/silverbulleters/vanessa-bootstrap/tree/0.2.5/README.md"
+              href="/silverbulleters/vanessa-bootstrap/tree/0.2.5/bootstrap.in-up.sh"
               data-name="0.2.5"
               data-skip-pjax="true"
               rel="nofollow">
@@ -578,7 +578,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/silverbulleters/vanessa-bootstrap/tree/0.2.4/README.md"
+              href="/silverbulleters/vanessa-bootstrap/tree/0.2.4/bootstrap.in-up.sh"
               data-name="0.2.4"
               data-skip-pjax="true"
               rel="nofollow">
@@ -588,7 +588,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/silverbulleters/vanessa-bootstrap/tree/0.2.3/README.md"
+              href="/silverbulleters/vanessa-bootstrap/tree/0.2.3/bootstrap.in-up.sh"
               data-name="0.2.3"
               data-skip-pjax="true"
               rel="nofollow">
@@ -598,7 +598,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/silverbulleters/vanessa-bootstrap/tree/0.2.2/README.md"
+              href="/silverbulleters/vanessa-bootstrap/tree/0.2.2/bootstrap.in-up.sh"
               data-name="0.2.2"
               data-skip-pjax="true"
               rel="nofollow">
@@ -608,7 +608,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/silverbulleters/vanessa-bootstrap/tree/0.2.1/README.md"
+              href="/silverbulleters/vanessa-bootstrap/tree/0.2.1/bootstrap.in-up.sh"
               data-name="0.2.1"
               data-skip-pjax="true"
               rel="nofollow">
@@ -618,7 +618,7 @@
               </span>
             </a>
             <a class="select-menu-item js-navigation-item js-navigation-open "
-              href="/silverbulleters/vanessa-bootstrap/tree/0.1.0/README.md"
+              href="/silverbulleters/vanessa-bootstrap/tree/0.1.0/bootstrap.in-up.sh"
               data-name="0.1.0"
               data-skip-pjax="true"
               rel="nofollow">
@@ -646,11 +646,11 @@
     <button aria-label="Copy file path to clipboard" class="js-zeroclipboard btn btn-sm BtnGroup-item tooltipped tooltipped-s" data-copied-hint="Copied!" type="button">Copy path</button>
   </div>
   <div class="breadcrumb js-zeroclipboard-target">
-    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/silverbulleters/vanessa-bootstrap"><span>vanessa-bootstrap</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="repo-root js-repo-root"><span class="js-path-segment"><a href="/silverbulleters/vanessa-bootstrap"><span>vanessa-bootstrap</span></a></span></span><span class="separator">/</span><strong class="final-path">bootstrap.in-up.sh</strong>
   </div>
 </div>
 
-<include-fragment class="commit-tease" src="/silverbulleters/vanessa-bootstrap/contributors/master/README.md">
+<include-fragment class="commit-tease" src="/silverbulleters/vanessa-bootstrap/contributors/master/bootstrap.in-up.sh">
   <div>
     Fetching contributors&hellip;
   </div>
@@ -665,9 +665,9 @@
   <div class="file-actions">
 
     <div class="BtnGroup">
-      <a href="/silverbulleters/vanessa-bootstrap/raw/master/README.md" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
-        <a href="/silverbulleters/vanessa-bootstrap/blame/master/README.md" class="btn btn-sm js-update-url-with-hash BtnGroup-item">Blame</a>
-      <a href="/silverbulleters/vanessa-bootstrap/commits/master/README.md" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
+      <a href="/silverbulleters/vanessa-bootstrap/raw/master/bootstrap.in-up.sh" class="btn btn-sm BtnGroup-item" id="raw-url">Raw</a>
+        <a href="/silverbulleters/vanessa-bootstrap/blame/master/bootstrap.in-up.sh" class="btn btn-sm js-update-url-with-hash BtnGroup-item">Blame</a>
+      <a href="/silverbulleters/vanessa-bootstrap/commits/master/bootstrap.in-up.sh" class="btn btn-sm BtnGroup-item" rel="nofollow">History</a>
     </div>
 
         <a class="btn-octicon tooltipped tooltipped-nw"
@@ -677,12 +677,12 @@
             <svg aria-hidden="true" class="octicon octicon-device-desktop" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M15 2H1c-.55 0-1 .45-1 1v9c0 .55.45 1 1 1h5.34c-.25.61-.86 1.39-2.34 2h8c-1.48-.61-2.09-1.39-2.34-2H15c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm0 9H1V3h14v8z"></path></svg>
         </a>
 
-        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/edit/master/README.md" class="inline-form js-update-url-with-hash" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="+mSQZmjbUVvqxJ1e7nn789/64MDSEAzqHiWV+Pq8eG7bttfIN/Fm8ay71lalAy4BlNtwDY+EadQetqgMj9C3ow==" /></div>
+        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/edit/master/bootstrap.in-up.sh" class="inline-form js-update-url-with-hash" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Efls0nGAtIpEr4kk6YcVOqGZhyQP+M6XHpjb7+eE3mYnYa3pFCrVpK4uX/6r3mEH0LLCqXwsq3qzobU6wt6n8Q==" /></div>
           <button class="btn-octicon tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and edit the file" data-hotkey="e" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-pencil" height="16" version="1.1" viewBox="0 0 14 16" width="14"><path d="M0 12v3h3l8-8-3-3-8 8zm3 2H1v-2h1v1h1v1zm10.3-9.3L12 6 9 3l1.3-1.3a.996.996 0 0 1 1.41 0l1.59 1.59c.39.39.39 1.02 0 1.41z"></path></svg>
           </button>
-</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/delete/master/README.md" class="inline-form" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="1p6xRQUkzZhRfrWNHyBwJWn845uGv2bKoE55/fzDBG/HK3nbkzRcBOudmgnEbCk/WU1sQIzlW2eRFJSbMm5qEw==" /></div>
+</form>        <!-- </textarea> --><!-- '"` --><form accept-charset="UTF-8" action="/silverbulleters/vanessa-bootstrap/delete/master/bootstrap.in-up.sh" class="inline-form" data-form-nonce="9008fd446c8eaef6ef0302454c01535e691c2647" method="post"><div style="margin:0;padding:0;display:inline"><input name="utf8" type="hidden" value="&#x2713;" /><input name="authenticity_token" type="hidden" value="Obt9pGf+Qr6gWypW8BZr423ssjqUT+0k+Z+6eXdbj3BFZU/LOnF7vFLzQHWvDJN3E2dWaLSDm8fG2N3BWQdlEA==" /></div>
           <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
             aria-label="Fork this project and delete the file" data-disable-with>
             <svg aria-hidden="true" class="octicon octicon-trashcan" height="16" version="1.1" viewBox="0 0 12 16" width="12"><path d="M11 2H9c0-.55-.45-1-1-1H5c-.55 0-1 .45-1 1H2c-.55 0-1 .45-1 1v1c0 .55.45 1 1 1v9c0 .55.45 1 1 1h7c.55 0 1-.45 1-1V5c.55 0 1-.45 1-1V3c0-.55-.45-1-1-1zm-1 12H3V5h1v8h1V5h1v8h1V5h1v8h1V5h1v9zm1-10H2V3h9v1z"></path></svg>
@@ -690,98 +690,357 @@
 </form>  </div>
 
   <div class="file-info">
-      79 lines (55 sloc)
+      82 lines (66 sloc)
       <span class="file-info-divider"></span>
-    6.61 KB
+    4.08 KB
   </div>
 </div>
 
   
-  <div id="readme" class="readme blob instapaper_body">
-    <article class="markdown-body entry-content" itemprop="text"><h2><a id="user-content-Шаблон-для-работы-правильного-1С-разработчика" class="anchor" href="#Шаблон-для-работы-правильного-1С-разработчика" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Шаблон для работы правильного 1С разработчика</h2>
 
-<p><a href="https://gitter.im/silverbulleters/vanessa-bootstrap?utm_source=badge&amp;utm_medium=badge&amp;utm_campaign=pr-badge&amp;utm_content=badge"><img src="https://camo.githubusercontent.com/da2edb525cde1455a622c58c0effc3a90b9a181c/68747470733a2f2f6261646765732e6769747465722e696d2f4a6f696e253230436861742e737667" alt="Join the chat at https://gitter.im/silverbulleters/vanessa-bootstrap" data-canonical-src="https://badges.gitter.im/Join%20Chat.svg" style="max-width:100%;"></a></p>
+  <div itemprop="text" class="blob-wrapper data type-shell">
+      <table class="highlight tab-size js-file-line-container" data-tab-size="8">
+      <tr>
+        <td id="L1" class="blob-num js-line-number" data-line-number="1"></td>
+        <td id="LC1" class="blob-code blob-code-inner js-file-line"><span class="pl-c">#/bin/bash</span></td>
+      </tr>
+      <tr>
+        <td id="L2" class="blob-num js-line-number" data-line-number="2"></td>
+        <td id="LC2" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L3" class="blob-num js-line-number" data-line-number="3"></td>
+        <td id="LC3" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Инсталятор и обновлятор шаблона разработки<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L4" class="blob-num js-line-number" data-line-number="4"></td>
+        <td id="LC4" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Vanessa Bootstrap Install or Upgrade<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L5" class="blob-num js-line-number" data-line-number="5"></td>
+        <td id="LC5" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>подключает bootstrap к текущему репозиторию и обновляет его из ветки master<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L6" class="blob-num js-line-number" data-line-number="6"></td>
+        <td id="LC6" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L7" class="blob-num js-line-number" data-line-number="7"></td>
+        <td id="LC7" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Переходим в каталог GIT если он указан в параметре, если запускать скрипт из каталога git, при получении этого файла возникает ошибка. </span></td>
+      </tr>
+      <tr>
+        <td id="L8" class="blob-num js-line-number" data-line-number="8"></td>
+        <td id="LC8" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$1</span><span class="pl-pds">&quot;</span></span> ]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L9" class="blob-num js-line-number" data-line-number="9"></td>
+        <td id="LC9" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">cd</span> <span class="pl-smi">$1</span></td>
+      </tr>
+      <tr>
+        <td id="L10" class="blob-num js-line-number" data-line-number="10"></td>
+        <td id="LC10" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L11" class="blob-num js-line-number" data-line-number="11"></td>
+        <td id="LC11" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L12" class="blob-num js-line-number" data-line-number="12"></td>
+        <td id="LC12" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> git rev-parse --git-dir <span class="pl-k">&gt;</span> /dev/null <span class="pl-k">2&gt;&amp;1</span><span class="pl-k">;</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L13" class="blob-num js-line-number" data-line-number="13"></td>
+        <td id="LC13" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Текущий каталог находится под управлением GIT - доступна возможность инсталяции и обновления<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L14" class="blob-num js-line-number" data-line-number="14"></td>
+        <td id="LC14" class="blob-code blob-code-inner js-file-line"><span class="pl-k">else</span></td>
+      </tr>
+      <tr>
+        <td id="L15" class="blob-num js-line-number" data-line-number="15"></td>
+        <td id="LC15" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Текущий каталог не является GIT репозиторием - необходимо выполнить команду git init для инициалиации<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L16" class="blob-num js-line-number" data-line-number="16"></td>
+        <td id="LC16" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>дальнейшая работа невозможна<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L17" class="blob-num js-line-number" data-line-number="17"></td>
+        <td id="LC17" class="blob-code blob-code-inner js-file-line">  <span class="pl-c1">exit</span> 42 <span class="pl-c"># &quot;код возврата - пасхальное яйцо, для понимающих&quot;</span></td>
+      </tr>
+      <tr>
+        <td id="L18" class="blob-num js-line-number" data-line-number="18"></td>
+        <td id="LC18" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L19" class="blob-num js-line-number" data-line-number="19"></td>
+        <td id="LC19" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L20" class="blob-num js-line-number" data-line-number="20"></td>
+        <td id="LC20" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-k">!</span> <span class="pl-k">-f</span> ./README.md ]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L21" class="blob-num js-line-number" data-line-number="21"></td>
+        <td id="LC21" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Основной файл README не найден - создаю заглушку<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L22" class="blob-num js-line-number" data-line-number="22"></td>
+        <td id="LC22" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>TODO - описать репозиторий<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;</span> ./README.md</td>
+      </tr>
+      <tr>
+        <td id="L23" class="blob-num js-line-number" data-line-number="23"></td>
+        <td id="LC23" class="blob-code blob-code-inner js-file-line">    git add ./README.md</td>
+      </tr>
+      <tr>
+        <td id="L24" class="blob-num js-line-number" data-line-number="24"></td>
+        <td id="LC24" class="blob-code blob-code-inner js-file-line">    git commit -m <span class="pl-s"><span class="pl-pds">&quot;</span>автоматически добавлена заглушка файла README<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L25" class="blob-num js-line-number" data-line-number="25"></td>
+        <td id="LC25" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L26" class="blob-num js-line-number" data-line-number="26"></td>
+        <td id="LC26" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L27" class="blob-num js-line-number" data-line-number="27"></td>
+        <td id="LC27" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-k">!</span> <span class="pl-k">-f</span> ./LICENSE.txt ]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L28" class="blob-num js-line-number" data-line-number="28"></td>
+        <td id="LC28" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Основной файл LICENSE не найден - создаю заглушку<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L29" class="blob-num js-line-number" data-line-number="29"></td>
+        <td id="LC29" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>TODO - описать лицензию<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;</span> ./LICENSE.txt</td>
+      </tr>
+      <tr>
+        <td id="L30" class="blob-num js-line-number" data-line-number="30"></td>
+        <td id="LC30" class="blob-code blob-code-inner js-file-line">    git add ./LICENSE.txt</td>
+      </tr>
+      <tr>
+        <td id="L31" class="blob-num js-line-number" data-line-number="31"></td>
+        <td id="LC31" class="blob-code blob-code-inner js-file-line">    git commit -m <span class="pl-s"><span class="pl-pds">&quot;</span>автоматически добавлена заглушка файла LICENSE<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L32" class="blob-num js-line-number" data-line-number="32"></td>
+        <td id="LC32" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L33" class="blob-num js-line-number" data-line-number="33"></td>
+        <td id="LC33" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L34" class="blob-num js-line-number" data-line-number="34"></td>
+        <td id="LC34" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-k">!</span> <span class="pl-k">-f</span> ./.gitignore ]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L35" class="blob-num js-line-number" data-line-number="35"></td>
+        <td id="LC35" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Основной файл игнорирования не найден - создаю минимальный<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L36" class="blob-num js-line-number" data-line-number="36"></td>
+        <td id="LC36" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>*.exe<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;</span> ./.gitignore</td>
+      </tr>
+      <tr>
+        <td id="L37" class="blob-num js-line-number" data-line-number="37"></td>
+        <td id="LC37" class="blob-code blob-code-inner js-file-line">    git add ./.gitignore</td>
+      </tr>
+      <tr>
+        <td id="L38" class="blob-num js-line-number" data-line-number="38"></td>
+        <td id="LC38" class="blob-code blob-code-inner js-file-line">    git commit -m <span class="pl-s"><span class="pl-pds">&quot;</span>автоматически добавлена заглушка файла игнорирования<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L39" class="blob-num js-line-number" data-line-number="39"></td>
+        <td id="LC39" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L40" class="blob-num js-line-number" data-line-number="40"></td>
+        <td id="LC40" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L41" class="blob-num js-line-number" data-line-number="41"></td>
+        <td id="LC41" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [ <span class="pl-k">!</span> <span class="pl-k">-f</span> ./.gitattributes ]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L42" class="blob-num js-line-number" data-line-number="42"></td>
+        <td id="LC42" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Основной файл атрибутов не найден - создаю атрибуты защиты<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L43" class="blob-num js-line-number" data-line-number="43"></td>
+        <td id="LC43" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;</span> ./.gitattributes</td>
+      </tr>
+      <tr>
+        <td id="L44" class="blob-num js-line-number" data-line-number="44"></td>
+        <td id="LC44" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>README.md merge=ours<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&gt;</span> ./.gitattributes</td>
+      </tr>
+      <tr>
+        <td id="L45" class="blob-num js-line-number" data-line-number="45"></td>
+        <td id="LC45" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>.gitmodules merge=ours<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&gt;</span> ./.gitattributes</td>
+      </tr>
+      <tr>
+        <td id="L46" class="blob-num js-line-number" data-line-number="46"></td>
+        <td id="LC46" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>.gitignore merge=ours<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&gt;</span> ./.gitattributes</td>
+      </tr>
+      <tr>
+        <td id="L47" class="blob-num js-line-number" data-line-number="47"></td>
+        <td id="LC47" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>.gitattributes merge=ours<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&gt;</span> ./.gitattributes</td>
+      </tr>
+      <tr>
+        <td id="L48" class="blob-num js-line-number" data-line-number="48"></td>
+        <td id="LC48" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>LICENSE.txt merge=ours<span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;&gt;</span> ./.gitattributes</td>
+      </tr>
+      <tr>
+        <td id="L49" class="blob-num js-line-number" data-line-number="49"></td>
+        <td id="LC49" class="blob-code blob-code-inner js-file-line">    git add ./.gitattributes</td>
+      </tr>
+      <tr>
+        <td id="L50" class="blob-num js-line-number" data-line-number="50"></td>
+        <td id="LC50" class="blob-code blob-code-inner js-file-line">    git commit -m <span class="pl-s"><span class="pl-pds">&quot;</span>автоматически добавлена заглушка файла атрибутов репозитория<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L51" class="blob-num js-line-number" data-line-number="51"></td>
+        <td id="LC51" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L52" class="blob-num js-line-number" data-line-number="52"></td>
+        <td id="LC52" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L53" class="blob-num js-line-number" data-line-number="53"></td>
+        <td id="LC53" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Включаю поддержку русских имен файлов (всегда и принудительно)<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L54" class="blob-num js-line-number" data-line-number="54"></td>
+        <td id="LC54" class="blob-code blob-code-inner js-file-line">git config --local core.quotepath <span class="pl-c1">false</span></td>
+      </tr>
+      <tr>
+        <td id="L55" class="blob-num js-line-number" data-line-number="55"></td>
+        <td id="LC55" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L56" class="blob-num js-line-number" data-line-number="56"></td>
+        <td id="LC56" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L57" class="blob-num js-line-number" data-line-number="57"></td>
+        <td id="LC57" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> git ls-remote --quiet --exit-code vanessa-bootstrap <span class="pl-k">&gt;</span> /dev/null<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L58" class="blob-num js-line-number" data-line-number="58"></td>
+        <td id="LC58" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Подписка на обновления шаблона vanessa-bootstrap установлена корректно<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L59" class="blob-num js-line-number" data-line-number="59"></td>
+        <td id="LC59" class="blob-code blob-code-inner js-file-line"><span class="pl-k">else</span></td>
+      </tr>
+      <tr>
+        <td id="L60" class="blob-num js-line-number" data-line-number="60"></td>
+        <td id="LC60" class="blob-code blob-code-inner js-file-line">    <span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Не обнаружена подписка на обновления шаблона - добавляю подписку<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L61" class="blob-num js-line-number" data-line-number="61"></td>
+        <td id="LC61" class="blob-code blob-code-inner js-file-line">    git remote add vanessa-bootstrap https://github.com/silverbulleters/vanessa-bootstrap.git</td>
+      </tr>
+      <tr>
+        <td id="L62" class="blob-num js-line-number" data-line-number="62"></td>
+        <td id="LC62" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L63" class="blob-num js-line-number" data-line-number="63"></td>
+        <td id="LC63" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L64" class="blob-num js-line-number" data-line-number="64"></td>
+        <td id="LC64" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Устанавливаю настройки объединения<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L65" class="blob-num js-line-number" data-line-number="65"></td>
+        <td id="LC65" class="blob-code blob-code-inner js-file-line">git config --local merge.ours.driver <span class="pl-c1">true</span></td>
+      </tr>
+      <tr>
+        <td id="L66" class="blob-num js-line-number" data-line-number="66"></td>
+        <td id="LC66" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L67" class="blob-num js-line-number" data-line-number="67"></td>
+        <td id="LC67" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Получаю последние измененения шаблона<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L68" class="blob-num js-line-number" data-line-number="68"></td>
+        <td id="LC68" class="blob-code blob-code-inner js-file-line">git fetch --no-tags vanessa-bootstrap</td>
+      </tr>
+      <tr>
+        <td id="L69" class="blob-num js-line-number" data-line-number="69"></td>
+        <td id="LC69" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L70" class="blob-num js-line-number" data-line-number="70"></td>
+        <td id="LC70" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>Получаю изменения шаблона - без помещения<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L71" class="blob-num js-line-number" data-line-number="71"></td>
+        <td id="LC71" class="blob-code blob-code-inner js-file-line"><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">&quot;</span>(Для отката используйте команду &#39;git checkout .&#39;)<span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L72" class="blob-num js-line-number" data-line-number="72"></td>
+        <td id="LC72" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L73" class="blob-num js-line-number" data-line-number="73"></td>
+        <td id="LC73" class="blob-code blob-code-inner js-file-line"><span class="pl-c"># Добавляем параметр --allow-unrelated-histories чтобы учесть новое поведение git (воспроизводилось на 2.9.3.windows.1) при слиянии репозиториев </span></td>
+      </tr>
+      <tr>
+        <td id="L74" class="blob-num js-line-number" data-line-number="74"></td>
+        <td id="LC74" class="blob-code blob-code-inner js-file-line">GIT_VER=<span class="pl-s"><span class="pl-pds">$(</span>git --version<span class="pl-pds">)</span></span></td>
+      </tr>
+      <tr>
+        <td id="L75" class="blob-num js-line-number" data-line-number="75"></td>
+        <td id="LC75" class="blob-code blob-code-inner js-file-line"><span class="pl-k">if</span> [[ <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$GIT_VER</span><span class="pl-pds">&quot;</span></span> <span class="pl-k">&gt;</span> <span class="pl-s"><span class="pl-pds">&quot;</span>2.9<span class="pl-pds">&quot;</span></span> ]]<span class="pl-k">;</span> <span class="pl-k">then</span></td>
+      </tr>
+      <tr>
+        <td id="L76" class="blob-num js-line-number" data-line-number="76"></td>
+        <td id="LC76" class="blob-code blob-code-inner js-file-line">    AUH_PARAM=<span class="pl-s"><span class="pl-pds">&quot;</span>--allow-unrelated-histories<span class="pl-pds">&quot;</span></span> </td>
+      </tr>
+      <tr>
+        <td id="L77" class="blob-num js-line-number" data-line-number="77"></td>
+        <td id="LC77" class="blob-code blob-code-inner js-file-line"><span class="pl-k">else</span> </td>
+      </tr>
+      <tr>
+        <td id="L78" class="blob-num js-line-number" data-line-number="78"></td>
+        <td id="LC78" class="blob-code blob-code-inner js-file-line">    AUH_PARAM=<span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-pds">&quot;</span></span></td>
+      </tr>
+      <tr>
+        <td id="L79" class="blob-num js-line-number" data-line-number="79"></td>
+        <td id="LC79" class="blob-code blob-code-inner js-file-line"><span class="pl-k">fi</span></td>
+      </tr>
+      <tr>
+        <td id="L80" class="blob-num js-line-number" data-line-number="80"></td>
+        <td id="LC80" class="blob-code blob-code-inner js-file-line">
+</td>
+      </tr>
+      <tr>
+        <td id="L81" class="blob-num js-line-number" data-line-number="81"></td>
+        <td id="LC81" class="blob-code blob-code-inner js-file-line">git pull --no-tags --no-commit <span class="pl-s"><span class="pl-pds">&quot;</span><span class="pl-smi">$AUH_PARAM</span><span class="pl-pds">&quot;</span></span> vanessa-bootstrap master</td>
+      </tr>
+</table>
 
-<ul>
-<li>содержит выработанную и обдуманную семантически структуру каталогов</li>
-<li>содержит необходимые утилиты для быстрого старта</li>
-</ul>
-
-<p>текущая версия <strong>0.2.5.4</strong></p>
-
-<h3><a id="user-content-Порядок-установки" class="anchor" href="#Порядок-установки" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Порядок установки</h3>
-
-<ul>
-<li>прочитайте <a href="https://github.com/silverbulleters/vanessa-bootstrap/wiki/%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D0%B8-%D0%BF%D1%80%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C%D0%BD%D1%8B%D0%BC-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B0%D0%BC-1%D0%A1">Wiki</a></li>
-<li>склонируйте репозиторий в любое место, чтобы изучить каждый каталог и его предназначение</li>
-<li>не забудьте что git под Windows нужно устанавливать с git:bash интерпретатором</li>
-</ul>
-
-<h4><a id="user-content-Порядок-работы-1С-специалиста" class="anchor" href="#Порядок-работы-1С-специалиста" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Порядок работы 1С специалиста</h4>
-
-<ul>
-<li>как настоящий 1С специалист новую конфигурацию подключите к Хранилищу 1С (если вы разрабатываете внешнюю обработку, этот пункт можете пропустить)</li>
-<li>настройте на своем CI-сервере выгрузку исходников из <a href="http://v8.1c.ru/overview/DeveloperGroupp.htm">Хранилища 1С</a> в git репозиторий с помощью <a href="https://github.com/silverbulleters/vanessa-unpack">Yet Another Unpack</a> - выгрузку лучше всего настроить в каталог .\src\cf</li>
-<li>обратите внимание на проект <a href="https://github.com/pumbaEO/undiff1c/blob/master/src/undiff1c/undiff1c.py">по исправлению артефактов 1С при выгрузке в исходники</a> - если вы видите странные изменения в xml файлах, значит необходимо описать пример в качестве запроса <a href="https://github.com/pumbaEO/undiff1c/issues">https://github.com/pumbaEO/undiff1c/issues</a>, чтобы исключить проблемы выгрузки.</li>
-<li>обратите внимание на наличие у вас интерпретатора python для работы с <a href="https://github.com/pumbaEO/precommit1c">precommit1C</a> - конечная цель чтобы в каталоге src находились все epf файлы анаходящиеся в репозитории, только в виде исходников.</li>
-<li>следите за обновлением шаблона</li>
-<li>подпишитесь на изменения WiKi в виде RSS канала <a href="https://github.com/silverbulleters/vanessa-bootstrap/wiki.atom">https://github.com/silverbulleters/vanessa-bootstrap/wiki.atom</a></li>
-</ul>
-
-<p>обратите внимание что:</p>
-
-<ul>
-<li>существует проект <a href="https://github.com/EvilBeaver/oscript-library/tree/develop/src/gitsync">gitsync</a> реализованный на <a href="http://oscript.io/">oscript.io</a></li>
-<li>precommit1C на данный момент имеет версию как для Python, так и для <strong>OScript</strong> <a href="https://github.com/xDrivenDevelopment/precommit1c/">precommit1C</a></li>
-</ul>
-
-<h3><a id="user-content-Порядок-инсталяции-и-обновления-шаблона" class="anchor" href="#Порядок-инсталяции-и-обновления-шаблона" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Порядок инсталяции и обновления шаблона</h3>
-
-<p>инсталятор и скрипт обновления представляет собой скрипт на <code>bash</code>, поэтому, необходимо выполнить следующие команды</p>
-
-<p>если еще нет репозитория <code>git</code></p>
-
-<div class="highlight highlight-source-shell"><pre><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">"</span>Эти команды нужно выполнить в командной строке<span class="pl-pds">"</span></span>
-<span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">"</span>для пользователей Windows используйте MSGIT:Bash (устанавливается вместе с MSGIT)<span class="pl-pds">"</span></span>
-git init ./my-new-repo
-<span class="pl-c1">cd</span> ./my-new-repo
-curl -o bootstrap.in-up.sh -sSL https://raw.githubusercontent.com/silverbulleters/vanessa-bootstrap/master/bootstrap.in-up.sh
-./bootstrap.in-up.sh</pre></div>
-
-<p>если репозиторий уже существует</p>
-
-<div class="highlight highlight-source-shell"><pre><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">"</span>Эти команды нужно выполнить в командной строке<span class="pl-pds">"</span></span>
-<span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">"</span>для пользователей Windows используйте MSGIT:Bash (устанавливается вместе с MSGIT)<span class="pl-pds">"</span></span>
-<span class="pl-c1">cd</span> ./my-existing-repo
-curl -o bootstrap.in-up.sh -sSL https://raw.githubusercontent.com/silverbulleters/vanessa-bootstrap/master/bootstrap.in-up.sh
-./bootstrap.in-up.sh</pre></div>
-
-<p>обновление шаблона происходит автоматически, для этого достаточно запустить скачанный скрипт еще раз</p>
-
-<div class="highlight highlight-source-shell"><pre><span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">"</span>Эти команды нужно выполнить в командной строке<span class="pl-pds">"</span></span>
-<span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">"</span>для пользователей Windows используйте MSGIT:Bash (устанавливается вместе с MSGIT)<span class="pl-pds">"</span></span>
-<span class="pl-c1">cd</span> ./my-existing-repo-with-download-bootstrap
-<span class="pl-c1">echo</span> <span class="pl-s"><span class="pl-pds">"</span>Обновляю BootStrap<span class="pl-pds">"</span></span>
-./bootstrap.in-up.sh</pre></div>
-
-<p>откуда берется <code>curl</code> вы должны понять, если изучили каталог <code>.\tools\Windows</code> - ключевое слово для понимания <code>choco</code></p>
-
-<h3><a id="user-content-Возможности-доработки-шаблона" class="anchor" href="#Возможности-доработки-шаблона" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Возможности доработки шаблона</h3>
-
-<ul>
-<li>откройте issue - если вам не хватает кого-то каталога под ваши задачи</li>
-<li>войдите в чат Gitter - чтобы задать дополнительные вопросы</li>
-<li>сделайте fork, внесите изменения и выполните pull request с предлагаемыми вами изменениями (fork и pull request - это кнопки на GitHub.)</li>
-</ul>
-
-<h3><a id="user-content-Заметки-на-полях" class="anchor" href="#Заметки-на-полях" aria-hidden="true"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Заметки на полях</h3>
-
-<ul>
-<li><p>структура содержит адаптацию семантики каталогов для проектов на проекте Graphite от компании 1С (пример текущего каталога из проекта Graphite можно посмотреть тут <a href="https://github.com/1C-Company/dt-demo-configuration/tree/master/DemoConfDT">https://github.com/1C-Company/dt-demo-configuration/tree/master/DemoConfDT</a></p></li>
-<li><p>для GitFlow в Windows мы советуем использовать программу SourceTree от компании Atlassian, для GitFlow в linux следует использовать расширение git-flow для git</p></li>
-<li><p>для управления релизами мы используем <a href="http://semver.org/lang/ru/">Семантическое версионирование</a></p></li>
-</ul>
-</article>
   </div>
 
 </div>
@@ -819,7 +1078,7 @@ curl -o bootstrap.in-up.sh -sSL https://raw.githubusercontent.com/silverbulleter
       <svg aria-hidden="true" class="octicon octicon-mark-github" height="24" version="1.1" viewBox="0 0 16 16" width="24"><path d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0 0 16 8c0-4.42-3.58-8-8-8z"></path></svg>
 </a>
     <ul class="site-footer-links">
-      <li>&copy; 2016 <span title="0.10289s from github-fe156-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
+      <li>&copy; 2016 <span title="0.09646s from github-fe161-cp1-prd.iad.github.net">GitHub</span>, Inc.</li>
         <li><a href="https://github.com/site/terms" data-ga-click="Footer, go to terms, text:terms">Terms</a></li>
         <li><a href="https://github.com/site/privacy" data-ga-click="Footer, go to privacy, text:privacy">Privacy</a></li>
         <li><a href="https://github.com/security" data-ga-click="Footer, go to security, text:security">Security</a></li>
