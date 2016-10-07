@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<V8Exch:_1CV8DtUD xmlns:V8Exch="http://www.1c.ru/V8/1CV8DtUD/" xmlns:v8="http://v8.1c.ru/data" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<V8Exch:Data>
+		<CatalogObject.Склады>
+			<Ref>daaec7ed-87f6-11e6-bf1e-969eff25643f</Ref>
+			<DeletionMark>false</DeletionMark>
+			<Code>000000001</Code>
+			<Description>Основной</Description>
+		</CatalogObject.Склады>
+		<CatalogObject.Номенклатура>
+			<Ref>978637ca-3fb7-11df-af8e-001302ef9025</Ref>
+			<IsFolder>true</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>00000000-0000-0000-0000-000000000000</Parent>
+			<Code>3</Code>
+			<Description>Продукты питания</Description>
+		</CatalogObject.Номенклатура>
+		<CatalogObject.Номенклатура>
+			<Ref>978637d1-3fb7-11df-af8e-001302ef9025</Ref>
+			<IsFolder>false</IsFolder>
+			<DeletionMark>false</DeletionMark>
+			<Parent>978637ca-3fb7-11df-af8e-001302ef9025</Parent>
+			<Code>9</Code>
+			<Description>Йогурт "Малина"</Description>
+		</CatalogObject.Номенклатура>
+		<DocumentObject.Покупка>
+			<Ref>e3d159a0-8992-11e6-bf1e-969eff25643f</Ref>
+			<DeletionMark>false</DeletionMark>
+			<Date>2016-10-03T22:57:47</Date>
+			<Number>000000001</Number>
+			<Posted>true</Posted>
+			<СуммаПоДокументу>0</СуммаПоДокументу>
+			<Склад>daaec7ed-87f6-11e6-bf1e-969eff25643f</Склад>
+			<СписокНоменклатуры>
+				<Row>
+					<Номенклатура>978637d1-3fb7-11df-af8e-001302ef9025</Номенклатура>
+					<Количество>10</Количество>
+					<Цена>100</Цена>
+					<Сумма>1000</Сумма>
+				</Row>
+			</СписокНоменклатуры>
+		</DocumentObject.Покупка>
+	</V8Exch:Data>
+</V8Exch:_1CV8DtUD>
